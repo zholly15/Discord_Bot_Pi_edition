@@ -1,0 +1,20 @@
+{
+  "name": "oni_bot2.0",
+  "version": "1.0.0",
+  "description": "A second less broken version of my personal ONI Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Holly",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "discord.js-commando": "github:discordjs/Commando",
+    "ffmpeg-static": "^4.2.7",
+    "node-opus": "^0.3.3",
+    "nodemon": "^2.0.6",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.0.3"
+  }
+}

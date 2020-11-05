@@ -1,2 +1,2 @@
-# Discord_Bot_Pi_edition
- A non test enviroment for discord bot that runs on a Raspberry Pi
+# Discord-JavaScript-ONI_Bot
+This updated repo of the bot has a lot less extra fluff and is being designed to run on a Raspberry Pi4
