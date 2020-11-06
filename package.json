@@ -12,6 +12,7 @@
     "discord.js": "github:discordjs/discord.js",
     "discord.js-commando": "github:discordjs/Commando",
     "ffmpeg-static": "^4.2.7",
+    "node-fetch": "^2.6.1",
     "node-opus": "^0.3.3",
     "nodemon": "^2.0.6",
     "simple-youtube-api": "^5.2.1",
